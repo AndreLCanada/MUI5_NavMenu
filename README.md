@@ -2,6 +2,11 @@
 
 MenuList(MUI5) as NavMenu with [logo] on Paper(MUI5)
 
+## Built With
+
+* React: [https://reactjs.org/]
+* Material UI: [https://mui.com/]
+
 ## Expected Integration Issues
 
 - n/a
