@@ -1,5 +1,10 @@
 # Sitewide SideNav
 
+## ScreenCapture: 
+https://user-images.githubusercontent.com/108090605/196774873-91b863bd-37bf-4bc6-bb78-7656eeb3fee8.mov
+
+
+
 MenuList(MUI5) as NavMenu with [logo] on Paper(MUI5)
 
 ## Built With
